@@ -39,7 +39,9 @@ public class Inicio {
 		
 		//Muestro el resultado por pantalla
 		System.out.println("El área de la circinferencia es: " + area);
-		
+	
+		//Cierro la variable Scanner
+		sc.close();
 	}
 
 }
