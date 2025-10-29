@@ -21,7 +21,7 @@ public class Inicio {
 	
 	/**
 	 * Método de entrada de la aplicación
-	 * rbr - 291025
+	 * @author rbr - 291025
 	 * @param args
 	 */
 	public static void main(String[] args) {
