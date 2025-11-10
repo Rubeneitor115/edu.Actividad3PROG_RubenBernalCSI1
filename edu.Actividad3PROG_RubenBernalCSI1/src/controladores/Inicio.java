@@ -35,7 +35,7 @@ public class Inicio {
 		radio = sc.nextDouble();
 		
 		//Calculo la medida del área
-		area = PI * (radio * radio);
+		area = PI * Math.pow(radio, 2);
 		
 		//Muestro el resultado por pantalla
 		System.out.println("El área de la circinferencia es: " + area);
